@@ -6,3 +6,6 @@
 
 - テスト実行:
 `npm test`
+
+- 開発用Webサーバ起動:
+`npm run static`
